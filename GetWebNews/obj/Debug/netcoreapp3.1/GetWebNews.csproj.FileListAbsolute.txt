@@ -1,0 +1,13 @@
+C:\Users\10492\source\repos\GetWebNews\bin\Debug\netcoreapp3.1\GetWebNews.exe
+C:\Users\10492\source\repos\GetWebNews\bin\Debug\netcoreapp3.1\GetWebNews.deps.json
+C:\Users\10492\source\repos\GetWebNews\bin\Debug\netcoreapp3.1\GetWebNews.runtimeconfig.json
+C:\Users\10492\source\repos\GetWebNews\bin\Debug\netcoreapp3.1\GetWebNews.runtimeconfig.dev.json
+C:\Users\10492\source\repos\GetWebNews\bin\Debug\netcoreapp3.1\GetWebNews.dll
+C:\Users\10492\source\repos\GetWebNews\bin\Debug\netcoreapp3.1\GetWebNews.pdb
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.csprojAssemblyReference.cache
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.csproj.CoreCompileInputs.cache
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.AssemblyInfoInputs.cache
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.AssemblyInfo.cs
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.dll
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.pdb
+C:\Users\10492\source\repos\GetWebNews\obj\Debug\netcoreapp3.1\GetWebNews.genruntimeconfig.cache

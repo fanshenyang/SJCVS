@@ -1,0 +1,13 @@
+C:\Users\10492\source\repos\PressureTest\bin\Debug\netcoreapp3.1\PressureTest.exe
+C:\Users\10492\source\repos\PressureTest\bin\Debug\netcoreapp3.1\PressureTest.deps.json
+C:\Users\10492\source\repos\PressureTest\bin\Debug\netcoreapp3.1\PressureTest.runtimeconfig.json
+C:\Users\10492\source\repos\PressureTest\bin\Debug\netcoreapp3.1\PressureTest.runtimeconfig.dev.json
+C:\Users\10492\source\repos\PressureTest\bin\Debug\netcoreapp3.1\PressureTest.dll
+C:\Users\10492\source\repos\PressureTest\bin\Debug\netcoreapp3.1\PressureTest.pdb
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.csprojAssemblyReference.cache
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.csproj.CoreCompileInputs.cache
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.AssemblyInfoInputs.cache
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.AssemblyInfo.cs
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.dll
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.pdb
+C:\Users\10492\source\repos\PressureTest\obj\Debug\netcoreapp3.1\PressureTest.genruntimeconfig.cache

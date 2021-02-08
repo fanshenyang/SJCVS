@@ -9,7 +9,7 @@ namespace GetWebNews
     {
         public static string GetWebT(string url)
         {
-            
+            //sss
             WebClient MyWebClient = new WebClient();
             string htmlCode = "";
             MyWebClient.Credentials = CredentialCache.DefaultCredentials;//获取或设置用于向Internet资源的请求进行身份验证的网络凭据
